@@ -1,4 +1,4 @@
-# GeneralRepository
+# Code for calling api from appsheet
 
 var ss = SpreadsheetApp.openById("1rV2_S2q5rcakOuHs2E1iLeKR2floRIozSytAt2iRXo8");
   var sheet = ss.getSheets()[0];
